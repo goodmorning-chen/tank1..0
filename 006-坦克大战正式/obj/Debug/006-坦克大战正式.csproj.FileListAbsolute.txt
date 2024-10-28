@@ -1,0 +1,10 @@
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\bin\Debug\006-坦克大战正式.exe.config
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\bin\Debug\006-坦克大战正式.exe
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\bin\Debug\006-坦克大战正式.pdb
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\006-坦克大战正式.csproj.AssemblyReference.cache
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\_006_坦克大战正式.Form1.resources
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\_006_坦克大战正式.Properties.Resources.resources
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\006-坦克大战正式.csproj.GenerateResource.cache
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\006-坦克大战正式.csproj.CoreCompileInputs.cache
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\006-坦克大战正式.exe
+D:\Code\C#\test01\Csharp第三季坦克大战\006-坦克大战正式\obj\Debug\006-坦克大战正式.pdb

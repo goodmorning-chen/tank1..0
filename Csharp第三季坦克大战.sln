@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp第三季坦克大战", "Csharp第三季坦克大战\Csharp第三季坦克大战.csproj", "{14F849D5-B564-497E-80F1-42FD30F6FE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-WinForm", "03-WinForm\03-WinForm.csproj", "{27F3FBBE-50B7-48CF-BB4B-04D44750FBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-手动创建WinForm窗体", "004-手动创建WinForm窗体\004-手动创建WinForm窗体.csproj", "{DCA573FB-9C6C-4136-892E-2DE6E0934CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-坦克大战", "005-坦克大战\005-坦克大战.csproj", "{A007669C-6224-4E62-ABFC-B101B5C4DC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-坦克大战正式", "006-坦克大战正式\006-坦克大战正式.csproj", "{563C743F-F1F8-4762-9E7F-6904E9380FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F849D5-B564-497E-80F1-42FD30F6FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F849D5-B564-497E-80F1-42FD30F6FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F849D5-B564-497E-80F1-42FD30F6FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F849D5-B564-497E-80F1-42FD30F6FE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F3FBBE-50B7-48CF-BB4B-04D44750FBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F3FBBE-50B7-48CF-BB4B-04D44750FBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F3FBBE-50B7-48CF-BB4B-04D44750FBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F3FBBE-50B7-48CF-BB4B-04D44750FBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA573FB-9C6C-4136-892E-2DE6E0934CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA573FB-9C6C-4136-892E-2DE6E0934CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA573FB-9C6C-4136-892E-2DE6E0934CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA573FB-9C6C-4136-892E-2DE6E0934CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A007669C-6224-4E62-ABFC-B101B5C4DC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A007669C-6224-4E62-ABFC-B101B5C4DC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A007669C-6224-4E62-ABFC-B101B5C4DC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A007669C-6224-4E62-ABFC-B101B5C4DC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563C743F-F1F8-4762-9E7F-6904E9380FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563C743F-F1F8-4762-9E7F-6904E9380FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563C743F-F1F8-4762-9E7F-6904E9380FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563C743F-F1F8-4762-9E7F-6904E9380FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8300B6FD-BFB5-4D99-92AE-D6FF7ECD04D4}
+	EndGlobalSection
+EndGlobal
